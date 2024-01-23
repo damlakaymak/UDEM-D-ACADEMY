@@ -6,4 +6,4 @@
 
 ## GİF
 
-<img src= "SCREEN(2).gif">
+<img src= "SCREEN (2).gif">
