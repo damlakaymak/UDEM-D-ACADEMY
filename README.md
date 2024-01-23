@@ -1,6 +1,6 @@
 ## UDEMİG ACADEMY
 
--HTMLL,CSS,BOOSTRAP kullanılarak tasarlandı.
+-HTML,CSS,BOOSTRAP kullanılarak tasarlandı.
 
 -BİR EĞİTİM AKADEMİ SİTESİDİR.
 
